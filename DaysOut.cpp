@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include<iostream>
 using namespace std;
 
@@ -48,13 +47,11 @@ int NumberDays(int a){
 
 double AverageAbsent(int a,int b){
 	double average;
-	average=(double)b/a;
-	
+	average=(double)b/a;	
 	return average;
 }
-=======
 int NumberEmployees(int a){
-	cin a;
+	cin >> a;
 		if (a < 1){
 			cout << "invalid data";
 		}
@@ -69,9 +66,3 @@ int NumberDays(int a,int b){
 		}
 	}
 }
-
-int AverageAbsent(int a,int b){
-	int j;
-	j=b/a;
-}
->>>>>>> b9982edcd7ff61a9b0e0dd1e3d78b558f734b66f

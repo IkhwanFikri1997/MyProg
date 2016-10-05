@@ -50,4 +50,3 @@ double AverageAbsent(int a,int b){
 	average=(double)b/a;	
 	return average;
 }
-

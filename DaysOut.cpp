@@ -47,7 +47,7 @@ int NumberDays(int a){
 
 double AverageAbsent(int a,int b){
 	double average;
-	average=(double)b/a;
-	
+	average=(double)b/a;	
 	return average;
 }
+
